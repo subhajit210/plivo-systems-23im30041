@@ -1,0 +1,10 @@
+# Compiled C binaries
+sender
+receiver
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional: Ignore the zip file if you create it here
+*.zip
